@@ -11,3 +11,5 @@ organized for readability and quick review.
 ### MuJoCo (practice)
 
 ### IL / IRL / Offline RL (practice)
+
+![Demo1](mujoco/pendulum-v1/td3_Pendulum-v1_training.png)
