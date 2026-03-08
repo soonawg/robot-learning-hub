@@ -89,10 +89,3 @@ class BCQAgent:
         best = sampled_actions[q_values.argmax()]
         return best.detach().cpu().numpy()
 
-    # update functions are left for full implementation
-    # but you would update:
-    # 1. VAE reconstruction loss
-    # 2. Q-function Bellman loss
-    # 3. Perturbation to maximize Q
-    # exactly following BCQ paper
-
