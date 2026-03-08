@@ -5,7 +5,6 @@ organized for readability and quick review.
 
 > Focus: RL/IL fundamentals + MuJoCo practice + small IL/IRL/offline-RL experiments.
 
-## Highlights (recommended entrypoints)
 ### RL 
 
 ### MuJoCo (practice)
